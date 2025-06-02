@@ -1,7 +1,7 @@
 ## Hello, Im Muhammed.
 
 Undergraduate Data Science student at The University of Exeter 🕵️‍♀️<br/>
-Im currently working on the backend of an app for users to compete in game leagues using Java
+Im currently on a project exploring global temperature anomalies
 
 
 ## 🌐 Socials:
