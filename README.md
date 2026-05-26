@@ -1,7 +1,7 @@
 ## Hello, Im Muhammed.
 
 Undergraduate Data Science student at The University of Exeter 🕵️‍♀️<br/>
-Im currently on a project exploring global temperature anomalies
+Im currently working on a causal uplift project
 
 
 ## 🌐 Socials:
